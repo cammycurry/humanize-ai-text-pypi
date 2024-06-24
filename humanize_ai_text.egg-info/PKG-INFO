@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: humanize-ai-text
+Version: 1.0.1
+Summary: SDK for Humanized AI Text API
+Home-page: https://github.com/cammycurry/humanize-ai-text-pypi
+Author: Cam Curry
+Author-email: cam@humanize-ai-text.ai
+Project-URL: Homepage, https://humanize-ai-text.ai
+Project-URL: Source, https://github.com/cammycurry/humanize-ai-text-pypi
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # Humanize AI Text SDK
 
 This SDK provides easy access to the [Humanize AI Text](https://humanize-ai-text.ai/docs) API, allowing you to humanize AI-generated text effortlessly.

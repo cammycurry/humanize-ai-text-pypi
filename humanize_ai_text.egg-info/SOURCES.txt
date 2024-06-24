@@ -1,0 +1,8 @@
+README.md
+setup.py
+humanize_ai_text/__init__.py
+humanize_ai_text/humanized_ai.py
+humanize_ai_text.egg-info/PKG-INFO
+humanize_ai_text.egg-info/SOURCES.txt
+humanize_ai_text.egg-info/dependency_links.txt
+humanize_ai_text.egg-info/top_level.txt
